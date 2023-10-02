@@ -14,10 +14,9 @@ import "./App.css";
 
 const App = () => {
   return (
-    <BrowserRouter><Navbar />
+    <BrowserRouter>
+      <Navbar />
       <div className="app">
-        
-
         <Routes>
           <Route path="/" element={<Mainpage />} />
           <Route path="/CommonQA" element={<CommonQA />} />
@@ -25,7 +24,6 @@ const App = () => {
           <Route path="/GroupOfImages" element={<GroupOfImages />} />
           <Route path="/System" element={<System />} />
         </Routes>
-
       </div>
       <Footer />
     </BrowserRouter>
