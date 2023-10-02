@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/benan/static/css/main.50cdc379.css",
+    "main.js": "/benan/static/js/main.4c1bd48a.js",
+    "static/media/185 1.png": "/benan/static/media/185 1.4d222839cfe73862a61d.png",
+    "static/media/Rectangle 17.png": "/benan/static/media/Rectangle 17.f40f3d48e254b5d0302f.png",
+    "static/media/key man.png": "/benan/static/media/key man.a4da015745a00f24aa3e.png",
+    "static/media/Group 52 (2).png": "/benan/static/media/Group 52 (2).8eb8b483fc12250ce11e.png",
+    "static/media/Rectangle 25.png": "/benan/static/media/Rectangle 25.bc57c7823800adf20c21.png",
+    "static/media/Rectangle 33.png": "/benan/static/media/Rectangle 33.486ef31eded9a35a1260.png",
+    "static/media/Rectangle 34.png": "/benan/static/media/Rectangle 34.2efa1b6a9a75ac25308b.png",
+    "static/media/common.png": "/benan/static/media/common.301c5abe49b750280fde.png",
+    "static/media/Ellipse 10.png": "/benan/static/media/Ellipse 10.3b4c22889053b381351b.png",
+    "static/media/Ellipse 5.png": "/benan/static/media/Ellipse 5.329e44e448f3fa64ddec.png",
+    "static/media/Rectangle 28.png": "/benan/static/media/Rectangle 28.56300295e013c7d5e76b.png",
+    "static/media/شريك2.png": "/benan/static/media/شريك2.10a452e830a38ece9ca6.png",
+    "static/media/Rectangle 26.png": "/benan/static/media/Rectangle 26.a0da283d4e389690273b.png",
+    "static/media/Rectangle 29.png": "/benan/static/media/Rectangle 29.34343d541af912a64209.png",
+    "static/media/Rectangle 24.png": "/benan/static/media/Rectangle 24.326ee250eaf1c2f732ce.png",
+    "static/media/logoبعد -01 1.png": "/benan/static/media/logoبعد -01 1.d602519b848a6b837742.png",
+    "static/media/Ellipse 6.png": "/benan/static/media/Ellipse 6.906b02c50e0b49a717ca.png",
+    "static/media/Ellipse 8.png": "/benan/static/media/Ellipse 8.f61db492a9d24efd86c4.png",
+    "static/media/Ellipse 4.png": "/benan/static/media/Ellipse 4.be72fb3da8ec1fac9833.png",
+    "static/media/Rectangle 27.png": "/benan/static/media/Rectangle 27.9b1754670ec4a950b137.png",
+    "static/media/شريك3.png": "/benan/static/media/شريك3.8d635ca979718bdc0e88.png",
+    "static/media/Ellipse 9.png": "/benan/static/media/Ellipse 9.7542c5be5124b8cffb19.png",
+    "index.html": "/benan/index.html",
+    "main.50cdc379.css.map": "/benan/static/css/main.50cdc379.css.map",
+    "main.4c1bd48a.js.map": "/benan/static/js/main.4c1bd48a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50cdc379.css",
+    "static/js/main.4c1bd48a.js"
+  ]
+}
